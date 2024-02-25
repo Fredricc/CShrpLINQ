@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\Fredrick\Projects\C#LINQ\C#LINQ\bin\Debug\net7.0\C#LINQ.exe
+C:\Users\USER\OneDrive\Desktop\Fredrick\Projects\C#LINQ\C#LINQ\bin\Debug\net7.0\C#LINQ.deps.json
+C:\Users\USER\OneDrive\Desktop\Fredrick\Projects\C#LINQ\C#LINQ\bin\Debug\net7.0\C#LINQ.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\Fredrick\Projects\C#LINQ\C#LINQ\bin\Debug\net7.0\C#LINQ.dll
+C:\Users\USER\OneDrive\Desktop\Fredrick\Projects\C#LINQ\C#LINQ\bin\Debug\net7.0\C#LINQ.pdb
+C:\Users\USER\OneDrive\Desktop\Fredrick\Projects\C#LINQ\C#LINQ\obj\Debug\net7.0\C#LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\Fredrick\Projects\C#LINQ\C#LINQ\obj\Debug\net7.0\C#LINQ.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\Fredrick\Projects\C#LINQ\C#LINQ\obj\Debug\net7.0\C#LINQ.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\Fredrick\Projects\C#LINQ\C#LINQ\obj\Debug\net7.0\C#LINQ.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Fredrick\Projects\C#LINQ\C#LINQ\obj\Debug\net7.0\C#LINQ.dll
+C:\Users\USER\OneDrive\Desktop\Fredrick\Projects\C#LINQ\C#LINQ\obj\Debug\net7.0\refint\C#LINQ.dll
+C:\Users\USER\OneDrive\Desktop\Fredrick\Projects\C#LINQ\C#LINQ\obj\Debug\net7.0\C#LINQ.pdb
+C:\Users\USER\OneDrive\Desktop\Fredrick\Projects\C#LINQ\C#LINQ\obj\Debug\net7.0\C#LINQ.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\Fredrick\Projects\C#LINQ\C#LINQ\obj\Debug\net7.0\ref\C#LINQ.dll
