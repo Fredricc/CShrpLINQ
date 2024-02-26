@@ -3,13 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net7.0</TargetFramework>
-    <RootNamespace>C_LINQ</RootNamespace>
+    <RootNamespace>LINQ_MethodSyntax</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Section03-LinqSyntaxTypes\LINQ-MethodSyntax\" />
-  </ItemGroup>
 
 </Project>
